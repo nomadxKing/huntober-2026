@@ -6,6 +6,7 @@
 
 ## To DO
 - [x] Write down your 'why'!
+- [x] High Agency Exercise - turn my thoughts into verifiable action and execution.
 
 ## Homework / Reading
 - [x] Read [High Agency](https://www.highagency.com/)
