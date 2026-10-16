@@ -6,4 +6,5 @@ Tier 1 path to landing a job through meaningful progress with time invested and 
 
 ## Daily Progress & Notes
 - [Day 01: How To Get A Job](./notes/day-01.md)
+- [Day 02: Craft Your Story](./notes/day-02.md)
 <!-- Future days will be linked here -->
