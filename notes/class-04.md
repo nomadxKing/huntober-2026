@@ -17,7 +17,7 @@ E - Something relatable
 PREP should be used as a framework for coding challenges.
 
 ## To Do
-[x] Send 3 outreach messages
-[x] Add 3 companies to the hit list
-[x] Start working through the Bank using Anki
-[x] Attend Thursday's (10.29.26) 2-hour session on PREP and coding challenges
+- [x] Send 3 outreach messages
+- [x] Add 3 companies to the hit list
+- [x] Start working through the Bank using Anki
+- [x] Attend Thursday's (10.29.26) 2-hour session on PREP and coding challenges
